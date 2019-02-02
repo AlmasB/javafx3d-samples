@@ -1,0 +1,50 @@
+
+Scooter-normals.obj - OBJ Model
+Scooter-smgrps.obj - OBJ Model
+
+Derivative work from scooter.zip at http://www.sweethome3d.com/importModels.jsp
+See also http://www.katorlegaz.com/3d_models/miscellaneous/0166/index.php 
+
+Contributor:
+InteractiveMesh e.K.
+August Lammersdorf
+Hauptstrasse 28d
+85737 Ismaning
+Germany / Munich Area
+www.InteractiveMesh.com/impressum.html
+
+Redistribution and use are permitted according to the following license.
+
+--------------------------------------------------------------------------------
+
+LICENSE
+
+Scooter
+	
+(C) Copyright Andrew Kator & Jennifer Legaz
+	
+This files is under the Creative Commons Attribution 3.0 United States license
+available at:
+	
+http://creativecommons.org/licenses/by/3.0/us/
+	
+You are free:
+
+	to Share Ñ to copy, distribute, display, and perform the work
+
+	to Remix Ñ to make derivative works
+
+Under the following conditions:
+
+	Attribution. You must attribute the work in the manner specified by the author
+	or licensor (but not in any way that suggests that they endorse you or your use of the work).
+
+	For any reuse or distribution, you must make clear to others the license terms of this work. 
+ 	The best way to do this is with a link to this web page.
+
+	Any of the above conditions can be waived if you get permission from the copyright holder.
+
+	Apart from the remix rights granted under this license, nothing in this license impairs 
+	or restricts the author's moral rights.
+  
+--------------------------------------------------------------------------------
